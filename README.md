@@ -249,11 +249,15 @@ pip install numpy pandas matplotlib seaborn
 - **[Harsh Tiwari]** — Data cleaning, preprocessing, and dashboard development.
 - Dataset sourced from the Global Car Sales open dataset.
 - Dashboard built with [Tableau Public](https://public.tableau.com).
+
+
+### KPI Summary (Top Bar)
+| Metric | Value |
+|---|---|
 | Average Selling Price | $75,958 |
 | Marketing Spend | $2,511,699,975 |
 | Total Revenue | $567,312,382,963 |
 | Units Sold | 8,556,023 |
-
 ### Charts
 
 **Revenue vs Selling Price (by Brand)** — A combined bar + line chart comparing total revenue (bars) and average selling price (line) across all 8 brands. Ford and Tesla lead on revenue, while Porsche commands the highest average selling price.
