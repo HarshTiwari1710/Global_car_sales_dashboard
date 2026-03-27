@@ -146,6 +146,6 @@ pip install numpy pandas matplotlib seaborn
 
 ## Acknowledgements
 
-- **[Your Name]** — Data cleaning, preprocessing, and dashboard development.
+- **[Harsh Tiwari](https://github.com/HarshTiwari1710)** — Data cleaning, preprocessing, and dashboard development.
 - Dataset sourced from the Global Car Sales open dataset.
 - Dashboard built with [Tableau Public](https://public.tableau.com).
