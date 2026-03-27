@@ -9,7 +9,6 @@ A Python-based data cleaning and preprocessing pipeline for the **Global Car Sal
 ```
 ├── cleaning.ipynb          # Main data cleaning notebook
 ├── global_car_sales.csv    # Raw input dataset
-├── cleaned_data.csv        # Intermediate cleaned output
 └── final_dataset.csv       # Final clean dataset (primary output)
 ```
 
